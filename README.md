@@ -1,4 +1,4 @@
-# Wrangling Openstreetmap Data with SQL
+# Wrangling Openstreetmap Data
 
 **Location:** Hyderabad, India
 
